@@ -97,8 +97,6 @@
     * array1[0] -> 1
     * array1[3][1] -> A
 
-
-<<<<<<< HEAD
 * Basic Array Functions
     * .length               -> Returns the length of the array.
     * .push(entry)          -> Adds a new entry to the end of the array. (You can push multiple entries, or another array, or even an object.)
@@ -108,6 +106,3 @@
     * .concat()             -> Concatenates arrays together into one array.
     * .slice(start, stop)   -> Returns an array based on the inputs.
     * .join(delimter)       -> Turns an array into a single string, using the input as a value inbetween array entries.
-=======
-## Arrays
->>>>>>> e2681083beec2b6750f3eff31b8d4acc17504829
