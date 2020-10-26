@@ -11,7 +11,7 @@
 
 * Converting Strings to Numbers
     * parseInt
-    * +"10"E
+    * +"10"
 
 * Strings are sequences or a series of Unicode characters. They can be wrapped in single or double quotes.
 
